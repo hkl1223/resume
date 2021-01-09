@@ -89,7 +89,7 @@ section a {
   margin-right: 10px;
 }
 
-.item .icon{
+.item .icon {
   width: 20px;
   height: 40px;
 }
@@ -142,10 +142,12 @@ main {
 .git {
   margin-right: 10px;
 }
-
-.project h3 {
+/* .undergo {
+  margin-bottom: -20px;
+} */
+/* .project h3 {
   margin-top: 20px;
-}
+} */
 .applets-wrapper {
   position: relative;
   height: 160px;
@@ -155,4 +157,8 @@ main {
   border-radius: 100px;
   position: absolute;
   right: 390px;
+}
+.effect{
+  height: 150px;
+  margin-top: 10px;
 }
