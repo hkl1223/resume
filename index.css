@@ -107,6 +107,13 @@ main {
   min-height: calc(100vh - 162px);
 }
 
+@media (max-width: 400px) {
+  .effect {
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 7px;
+  }
+}
 @media (max-width: 768px) {
   header {
     padding-top: 20px;
@@ -121,6 +128,8 @@ main {
     height: 100px;
   }
 }
+
+
 
 .blog .iconfont {
   font-size: 20px;
@@ -158,7 +167,7 @@ main {
   position: absolute;
   right: 390px;
 }
-.effect{
+.effect {
   height: 150px;
   margin-top: 10px;
   margin-right: 50px;
