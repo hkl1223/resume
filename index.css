@@ -107,30 +107,6 @@ main {
   min-height: calc(100vh - 162px);
 }
 
-@media (max-width: 400px) {
-  .effect {
-    height: 150px;
-    margin-top: 10px;
-    margin-right: 7px;
-  }
-}
-@media (max-width: 768px) {
-  header {
-    padding-top: 20px;
-    padding-bottom: 90px;
-  }
-  aside {
-    width: 100%;
-    padding-top: 0px;
-  }
-  aside .avatar img {
-    width: 100px;
-    height: 100px;
-  }
-}
-
-
-
 .blog .iconfont {
   font-size: 20px;
   padding: 10px;
@@ -171,4 +147,27 @@ main {
   height: 150px;
   margin-top: 10px;
   margin-right: 50px;
+}
+
+@media (max-width: 768px) {
+  header {
+    padding-top: 20px;
+    padding-bottom: 90px;
+  }
+  aside {
+    width: 100%;
+    padding-top: 0px;
+  }
+  aside .avatar img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media (max-width: 400px) {
+  .effect {
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 7px;
+  }
 }
