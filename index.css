@@ -170,6 +170,12 @@ main {
     margin-top: 10px;
     margin-right: 7px;
   }
+ .applets {
+    height: 60px;
+    position: absolute;
+    right: 58px;
+    top: 109px;
+}
 }
 
 .highlight1{
