@@ -24,6 +24,7 @@ header {
   text-align: center;
   padding: 60px 0 10px 0;
   color: #fff;
+  margin-top: -10px;
 }
 
 header > h1 {
