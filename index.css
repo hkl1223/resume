@@ -171,3 +171,19 @@ main {
     margin-right: 7px;
   }
 }
+
+.highlight1{
+  color: red;
+}
+.highlight2{
+  color: limegreen;
+}
+.highlight3{
+  color: orange;
+}
+.highlight4{
+  color: #ec0db2;
+}
+.highlight5{
+  color: #af14e2;
+}
